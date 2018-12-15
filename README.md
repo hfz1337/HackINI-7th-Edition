@@ -1,2 +1,2 @@
 # HackINI-7th-Edition
-My deployed challenges for HackINI
+The deployed challenges for the HackINI's 7th edition (Not all of them, only the challenges I made)
